@@ -1,0 +1,17 @@
+setup.py
+ADD_REGRESION/DesignStart.py
+ADD_REGRESION/InterfaceView.py
+ADD_REGRESION/process.py
+ADD_REGRESION/readExcel.py
+ADD_REGRESION/setupPathFiles.py
+ADD_REGRESION/utils.py
+JOINTEAM/BuildDataFrames.py
+JOINTEAM/Setuppathfiles.py
+JOINTEAM/StartJoin.py
+JOINTEAM/__init__.py
+JOINTEAM/cleanAndStart.py
+JOINTEAM/interfaceUser.py
+joinTeams.egg-info/PKG-INFO
+joinTeams.egg-info/SOURCES.txt
+joinTeams.egg-info/dependency_links.txt
+joinTeams.egg-info/top_level.txt

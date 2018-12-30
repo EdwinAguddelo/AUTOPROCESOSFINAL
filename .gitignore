@@ -1,0 +1,16 @@
+Resources/*
+Resources
+*.xlsx
+*.xls
+*.rar
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+.vscode
+.vscode/
+_pycache_
+_pycache_/*
+venv
+venv/*
+basura
+*.pyc
+

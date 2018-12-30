@@ -1,0 +1,12 @@
+setup.py
+ADD_REGRESION/DesignStart.py
+ADD_REGRESION/InterfaceView.py
+ADD_REGRESION/__init__.py
+ADD_REGRESION/process.py
+ADD_REGRESION/readExcel.py
+ADD_REGRESION/setupPathFiles.py
+ADD_REGRESION/utils.py
+coberturas.egg-info/PKG-INFO
+coberturas.egg-info/SOURCES.txt
+coberturas.egg-info/dependency_links.txt
+coberturas.egg-info/top_level.txt
